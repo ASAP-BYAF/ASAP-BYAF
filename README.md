@@ -1,6 +1,6 @@
 <h1 id="index">目次</h1>
 
-- [使用技術](#technology-used)
+- [使用技術](#使用技術)
   - [フロントエンド](#dev-front)
   - [バックエンド](#dev-back)
   - [データベース](#dev-db)
