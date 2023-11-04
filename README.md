@@ -1,32 +1,34 @@
-# 目次
+<h1 id="index">目次</h1>
 
 - [使用技術](#technology-used)
-- [環境構築](#build-environment)
-- [実行方法](#how-to-run)
+  - [フロントエンド](#dev-front)
+  - [バックエンド](#dev-back)
+  - [データベース](#dev-db)
+  - [その他](#dev-others)
 
 <h1 id="technology-used">使用技術</h1>
-<h2 id="dev-front">Development (Frontend)</h2>
+<h2 id="dev-front">フロントエンド</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,react" />
   </a>
 </p>
 
-<h2 id="dev-front">Development (Backend)</h2>
+<h2 id="dev-back">バックエンド</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,fastapi" />
   </a>
 </p>
 
-<h2 id="dev-front">Development (Database)</h2>
+<h2 id="dev-db">データベース</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
   </a>
 </p>
 
-<h2 id="dev-front">Development (Others)</h2>
+<h2 id="dev-others">その他</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,vim,fortran,latex,linux,git,github,vscode" />
