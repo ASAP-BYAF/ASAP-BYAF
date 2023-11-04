@@ -8,28 +8,28 @@
 
 <h1 id="technology-used">使用技術</h1>
 <h2>フロントエンド</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,js,react" />
   </a>
 </p>
 
 <h2>バックエンド</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,fastapi" />
   </a>
 </p>
 
 <h2>データベース</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
   </a>
 </p>
 
 <h2>その他</h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,vim,fortran,latex,linux,git,github,vscode" />
   </a>
