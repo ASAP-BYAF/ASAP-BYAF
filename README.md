@@ -10,7 +10,7 @@
 <h2>フロントエンド</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,js,react,css,tailwind" />
   </a>
 </p>
 
